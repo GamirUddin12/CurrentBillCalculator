@@ -1,0 +1,18 @@
+C:\Users\Jamir\AppData\Local\Temporary Projects\Current_Bill_Calculator\bin\Debug\Current_Bill_Calculator.exe
+C:\Users\Jamir\AppData\Local\Temporary Projects\Current_Bill_Calculator\bin\Debug\Current_Bill_Calculator.pdb
+C:\Users\Jamir\AppData\Local\Temporary Projects\Current_Bill_Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jamir\AppData\Local\Temporary Projects\Current_Bill_Calculator\obj\x86\Debug\Current_Bill_Calculator.Form1.resources
+C:\Users\Jamir\AppData\Local\Temporary Projects\Current_Bill_Calculator\obj\x86\Debug\Current_Bill_Calculator.Properties.Resources.resources
+C:\Users\Jamir\AppData\Local\Temporary Projects\Current_Bill_Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jamir\AppData\Local\Temporary Projects\Current_Bill_Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jamir\AppData\Local\Temporary Projects\Current_Bill_Calculator\obj\x86\Debug\Current_Bill_Calculator.exe
+C:\Users\Jamir\AppData\Local\Temporary Projects\Current_Bill_Calculator\obj\x86\Debug\Current_Bill_Calculator.pdb
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Debug\Current_Bill_Calculator.exe
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Debug\Current_Bill_Calculator.pdb
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\bin\Debug\Current_Bill_Calculator.exe
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\bin\Debug\Current_Bill_Calculator.pdb
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Debug\Current_Bill_Calculator.Form1.resources
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Debug\Current_Bill_Calculator.Properties.Resources.resources
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Debug\GenerateResource.write.1.tlog

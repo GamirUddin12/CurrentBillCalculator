@@ -1,0 +1,9 @@
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\bin\Release\Current_Bill_Calculator.exe
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\bin\Release\Current_Bill_Calculator.pdb
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Release\Current_Bill_Calculator.Form1.resources
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Release\Current_Bill_Calculator.Properties.Resources.resources
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Release\Current_Bill_Calculator.exe
+E:\Csharp\Form\Current Bill Calculator\Current_Bill_Calculator\Current_Bill_Calculator\obj\x86\Release\Current_Bill_Calculator.pdb
